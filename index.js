@@ -6,7 +6,7 @@ const app = express();
 // Connect to database
 connectDB();
 
-app.use(express.json({ extented: false }));
+app.use(express.json());
 
 // Define Routes
 app.use('/', require('./routes/index'));
