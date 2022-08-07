@@ -13,7 +13,7 @@
   "dependencies": {
     "config": "^3.1.0",
     "express": "^4.17.1",
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.7.5",
     "shortid": "^2.2.14",
     "valid-url": "^1.0.9"
   },
